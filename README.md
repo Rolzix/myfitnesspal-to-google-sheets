@@ -2,7 +2,7 @@
 
 This Python script will take your MyFitnessPal data and put it into a Google Sheet.
 
-![demonstrationgif]()
+![mfptosheets](https://github.com/Rolzix/myfitnesspal-to-google-sheets/assets/107266349/922f3eef-8366-4388-9303-13247a376fb6)
 
 ## How to use:
 
