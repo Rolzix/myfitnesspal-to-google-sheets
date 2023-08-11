@@ -52,15 +52,11 @@ worksheet = sh.worksheet("Sheet1")
 ## Future Improvements:
 
 - [ ] Change the script to use oauth2 instead of a service account.
-- [ ] Change the script to use oauth2 instead of a service account.
 
-- [ ] Include standalone .exe to run the script without coding knowledge.
 - [ ] Include standalone .exe to run the script without coding knowledge.
 
   - [ ] Include variables to remember and change the spreadsheet and sheet names
-  - [ ] Include variables to remember and change the spreadsheet and sheet names
 
-  - [ ] Include GUI
   - [ ] Include GUI
 
 ## Lessons Learned:
