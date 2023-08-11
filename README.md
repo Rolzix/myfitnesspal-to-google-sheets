@@ -8,13 +8,13 @@ This Python script will take your MyFitnessPal data and put it into a Google She
 
 ### You need:
 
-- python-myfitnesspal ![python-myfitnesspal](https://github.com/coddingtonbear/python-myfitnesspal)
+- python-myfitnesspal [python-myfitnesspal](https://github.com/coddingtonbear/python-myfitnesspal)
 
 ```bash
 pip install myfitnesspal
 ```
 
-- gspread ![gspread](https://github.com/burnash/gspread)
+- gspread [gspread](https://github.com/burnash/gspread)
 
 ```bash
 pip install gspread
@@ -28,7 +28,7 @@ pip install gspread
 
 or watch this video here (first 2 minutes and 40 seconds is enough):
 
-![video](https://www.youtube.com/watch?v=bu5wXjz2KvU)
+[video](https://www.youtube.com/watch?v=bu5wXjz2KvU)
 
 - Copy the service account key JSON file into the same directory as the script.
 
@@ -53,20 +53,20 @@ worksheet = sh.worksheet("Sheet1")
 
 ## Future Improvements:
 
-- [] Change the script to use oauth2 instead of a service account.
+- [ ] Change the script to use oauth2 instead of a service account.
 
-- [] Include standalone .exe to run the script without coding knowledge.
+- [ ] Include standalone .exe to run the script without coding knowledge.
 
-  - [] Include variables to remember and change the spreadsheet and sheet names
+  - [ ] Include variables to remember and change the spreadsheet and sheet names
 
-  - [] Include GUI
+  - [ ] Include GUI
 
 ## Lessons Learned:
 
 Notable Firsts:
 
 - First project with Python.
--
+
 - First time using a Python library to access data on a website.
--
+
 - First time using a Python library to access a Google API.
